@@ -10,4 +10,4 @@ just run it with arguments
 1. Install PyInstaller
 2. Run Makefile with command `make compile`
 3. Run program with Makefile: `make run` OR
-4. run program directly: `./dist/main`
+4. run program directly: `./dist/main FILE [-q QUALITY]`
